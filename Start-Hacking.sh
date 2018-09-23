@@ -2,16 +2,18 @@
 a="\033[1;31m"
 b="\033[1;32m"
 d="\033[1;33m"
-c="\033[1;34m"                                   figlet StaRT-HaCkInG
-
-
-
-
-
-
-
+c="\033[1;34m"                                  
 
 clear
+                              figlet StaRT-HaCkInG
+
+
+
+
+
+
+
+
 
                     echo   "$a      1-Install top 10 tools"
 
