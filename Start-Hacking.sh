@@ -11,7 +11,7 @@ c="\033[1;34m"                                   figlet StaRT-HaCkInG
 
 
 
-
+clear
 
                     echo   "$a      1-Install top 10 tools"
 
